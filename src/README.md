@@ -12,4 +12,6 @@ This is my Hello World Java application.
 - Dockerized application
 - CI/CD with GitHub Actions
 
-hello sayar 
+hello sayar
+
+![workflow](https://github.com/<40794422HtetEaindrayOo11>/<DevOpsLab>/actions/workflows/main.yml/badge.svg)
