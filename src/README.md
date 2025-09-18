@@ -14,6 +14,8 @@ This is my Hello World Java application.
 
 hello sayar
 
-![workflow](https://github.com/<40794422HtetEaindrayOo11>/<DevOpsLab>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/40794422HtetEaindrayOo11/DevOpsLab/actions/workflows/main.yml/badge.svg)
 
-[![LICENSE](https://img.shields.io/github/license/<github-40794422HtetEaindrayOo11>/devops.svg?style=flat-square)](https://github.com/<github-40794422HtetEaindrayOo11>/devops/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/40794422HtetEaindrayOo11/DevOpsLab.svg?style=flat-square)](https://github.com/40794422HtetEaindrayOo11/DevOpsLab/blob/master/LICENSE)
+
+[![Releases](https://img.shields.io/github/release/40794422HtetEaindrayOo11/DevOpsLab/all.svg?style=flat-square)](https://github.com/40794422HtetEaindrayOo11/DevOpsLab/releases)
