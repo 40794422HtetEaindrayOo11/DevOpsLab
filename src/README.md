@@ -16,5 +16,4 @@ hello sayar
 
 ![workflow](https://github.com/<40794422HtetEaindrayOo11>/<DevOpsLab>/actions/workflows/main.yml/badge.svg)
 
-[![LICENSE](https://img.shields.io/github/license/<github-40794422HtetEaindrayOo11>/devops.svg?style=flat-square)](https://github.com/<github-40794422HtetEaindrayOo11>/DevOpsLab/master/LICENSE)
-
+[![LICENSE](https://img.shields.io/github/license/<github-40794422HtetEaindrayOo11>/devops.svg?style=flat-square)](https://github.com/<github-40794422HtetEaindrayOo11>/devops/blob/master/LICENSE)
