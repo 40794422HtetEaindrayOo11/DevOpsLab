@@ -1,5 +1,5 @@
 
-FROM openjdk:latest
-COPY ./target/classes/org /tmp/org
+FROM openjdk:18
+COPY ./target/DevOpsLab11-1.0-SNAPSHOT-jar-with-dependencies.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java", "org.example.App"]
+ENTRYPOINT ["java", "-jar", "DevOpsLab11-1.0-SNAPSHOT-jar-with-dependencies.jar"]
